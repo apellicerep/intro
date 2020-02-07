@@ -4,7 +4,7 @@ This is a swocase of my recent projects:
 
 ## 1. Holiday Resporting system
 
-<img src="https://github.com/apellicerep/intro/blob/master/vista.png" alt="test"
+<img src="/vista.png" alt="test"
 	title="test" width="550" height="550" />
 	
 ![test2](https://github.com/apellicerep/intro/blob/master/vista.jgp)
