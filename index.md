@@ -22,5 +22,8 @@ Main Technologies:
 
 ## 2. Course Management system
 
-<img src="https://github.com/apellicerep/intro/blob/master/vista.png" alt="test"
+<img src="https://github.com/apellicerep/intro/blob/master/fullstackRestApipng2.png" alt="test"
 	title="test" width="550" height="550" />
+
+This is the final project (10th) of the coding Bootcamp Teechdegree in Fullstack Javascript as part of my training as a developer.
+
