@@ -42,8 +42,8 @@ I've used:
 * Allow users to sign up and use basic authentication to support users signing in.
 
 ### [Know More :notebook_with_decorative_cover:](https://github.com/apellicerep/Full-Stack-App-with-React-and-REST-API)
-:notebook_with_decorative_cover:
-&#128212	
+
+<p>&#128212</p>	
 &#1F4D4
 
 ## [REST API](https://github.com/apellicerep/REST_Api)
