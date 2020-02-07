@@ -43,6 +43,8 @@ I've used:
 
 ### [Know More :notebook_with_decorative_cover:](https://github.com/apellicerep/Full-Stack-App-with-React-and-REST-API)
 :notebook_with_decorative_cover:
+&#128212	
+&#1F4D4
 
 ## [REST API](https://github.com/apellicerep/REST_Api)
 
