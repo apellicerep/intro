@@ -22,6 +22,8 @@ Main Technologies:
 
 #### [Know More]
 
+---
+
 ## [Course Management system](https://github.com/apellicerep/Full-Stack-App-with-React-and-REST-API)
 
 <img src="fullstackRestApipng2.png" alt="test"
@@ -43,6 +45,8 @@ I've used:
 * Allow users to sign up and use basic authentication to support users signing in.
 
 #### [Know More +](https://github.com/apellicerep/Full-Stack-App-with-React-and-REST-API)
+
+---
 
 ## [REST API](https://github.com/apellicerep/REST_Api)
 
@@ -68,6 +72,8 @@ In a future project, I'll complete a full stack JavaScript application by using 
 
 #### [Know More +](https://github.com/apellicerep/REST_Api)
 
+---
+
 ## [SQL Library Manager](https://github.com/apellicerep/SQL-LIBRARY-MANAGER)
 
 <img src="expressSqlbooks.png" alt="test"
@@ -83,6 +89,8 @@ Given HTML designs and an existing SQLite database. I have implemented a dynamic
 * Search field.
 
 #### [Know More +](https://github.com/apellicerep/SQL-LIBRARY-MANAGER)
+
+---
 
 ## [React Gallery App](https://github.com/apellicerep/React-Gallery-App)
 
@@ -102,6 +110,8 @@ I have done:
 
 This project was bootstrapped with Create React App.
 #### [Know More +](https://github.com/apellicerep/React-Gallery-App)
+
+---
 
 ## [Express Portfolio](https://github.com/apellicerep/Express-Js-Portfolio)
 
@@ -127,6 +137,7 @@ I used Nodejs and Express to:
 
 #### [Know More +](https://github.com/apellicerep/Express-Js-Portfolio)
 
+---
 
 ## [Employee Directory](https://github.com/apellicerep/Employee_Directory_JS)
 
@@ -141,6 +152,8 @@ I used the Random User Generator API (https://randomuser.me/) to grab informatio
 
 I requested a JSON object from the API using asynchronous programming and parsed the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.
 #### [Know More +](https://github.com/apellicerep/Employee_Directory_JS)
+
+---
 
 ## [OOP Game Show App](https://github.com/apellicerep/OOP-Js-Game-Show-App)
 
@@ -167,6 +180,8 @@ Browser-based, word guessing game: "Phrase Hunter."
 
 #### [Know More +](https://github.com/apellicerep/OOP-Js-Game-Show-App)
 
+---
+
 ## [List Pagination and Filtering](https://github.com/apellicerep/List-Pagination-and-Filtering)
 
 <img src="List-pagination-550.png" alt="test"
@@ -188,6 +203,8 @@ Given the html and css of a list of students using Vanilla Javascript:
 
 #### [Know More +](https://github.com/apellicerep/List-Pagination-and-Filtering)
 
+---
+
 ## [Interactive Form](https://github.com/apellicerep/Interactive_Form)
 
 <img src="Interactive-Form-550.png" alt="test"
@@ -204,6 +221,8 @@ Using the supplied HTML and CSS files, I added ALL the JavaScript to make the fo
 * Instead of plain "vanilla" JavaScript, I used the popular jQuery library to complete this project to get familiar with this library since it is so common and prevalent on the web.
 
 #### [Know More +](https://github.com/apellicerep/Interactive_Form)
+
+---
 
 ## [Random Quote Generator](https://github.com/apellicerep/Random_Quote_Generator)
 
