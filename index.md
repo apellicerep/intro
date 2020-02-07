@@ -7,7 +7,7 @@ This is a swocase of my recent projects:
 <img src="https://github.com/apellicerep/intro/blob/master/vista.png" alt="test"
 	title="test" width="550" height="550" />
 	
-![test](https://github.com/apellicerep/intro/blob/master/vista.png)
+![test2](https://github.com/apellicerep/intro/blob/master/vista.jgp)
 
 This project was born due to my university need to have a customized holiday reporting system for their employers. To meet their needs and provide them with a software that only containd the requested features I built it and designed this software as my thesis. 
 ![test](https://github.com/apellicerep/intro/blob/master/vista.png)
