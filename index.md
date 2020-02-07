@@ -1,5 +1,3 @@
-# Portfolio Arturo
-
 ## Introduction:
 This is a swocase of my recent projects:
 
