@@ -1,7 +1,7 @@
-## Portfolio Arutro P.
-This is a swocase of my recent projects:
+## Portfolio
+This is a swocase of Arturo's recent projects:
 
-## 1. Holiday Resporting system
+## Holiday Resporting system
 
 <img src="vista.png" alt="test"
 	title="test" width="550" height="550" />
@@ -20,7 +20,7 @@ Main Technologies:
 * Front-End: React and Material-Ui
 * Back-End: Express, MySql and Sequelize.
 
-## * [Course Management system](https://github.com/apellicerep/Full-Stack-App-with-React-and-REST-API)
+## [Course Management system](https://github.com/apellicerep/Full-Stack-App-with-React-and-REST-API)
 
 <img src="fullstackRestApipng2.png" alt="test"
 	title="test" width="550" height="550" />
@@ -40,7 +40,7 @@ I've used:
 * The Fetch API  to fetch data from your REST API.
 * Allow users to sign up and use basic authentication to support users signing in.
 
-## * [REST API](https://github.com/apellicerep/REST_Api)
+## [REST API](https://github.com/apellicerep/REST_Api)
 
 <img src="restApi.png" alt="test"
 	title="test" width="550" height="550" />
@@ -63,7 +63,7 @@ I've used my knowledge of REST API design, Node.js, and Express to create:
 In a future project, I'll complete a full stack JavaScript application by using React to create a client for this REST API.
 
 
-## * [SQL Library Manager](https://github.com/apellicerep/SQL-LIBRARY-MANAGER)
+## [SQL Library Manager](https://github.com/apellicerep/SQL-LIBRARY-MANAGER)
 
 <img src="expressSqlbooks.png" alt="test"
 	title="test" width="550" height="550" />
@@ -77,7 +77,7 @@ Given HTML designs and an existing SQLite database. I have implemented a dynamic
 * Pagination 
 * Search field.
 
-## * [React Gallery App](https://github.com/apellicerep/React-Gallery-App)
+## [React Gallery App](https://github.com/apellicerep/React-Gallery-App)
 
 <img src="react-gallery-app.png" alt="test"
 	title="test" width="550" height="550" />
@@ -95,12 +95,12 @@ I have done:
 
 This project was bootstrapped with Create React App.
 
-## * [Express Portfolio](https://github.com/apellicerep/Express-Js-Portfolio)
+## [Express Portfolio](https://github.com/apellicerep/Express-Js-Portfolio)
 
 <img src="portfolio.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 7th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 6th project done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 In this project, I created a portfolio site to showcase the projects that I've builted. I have used  Node.js and Express to
 
@@ -118,12 +118,12 @@ I used Nodejs and Express to:
 * Set up a server to serve the project
 
 
-## * [Employee Directory](https://github.com/apellicerep/Employee_Directory_JS)
+## [Employee Directory](https://github.com/apellicerep/Employee_Directory_JS)
 
 <img src="Employee-Directory-550.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 6th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 5th project done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 For this project, I've coded all the Javascript logic for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.
 
@@ -131,7 +131,72 @@ I used the Random User Generator API (https://randomuser.me/) to grab informatio
 
 I requested a JSON object from the API using asynchronous programming and parsed the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.
 
+## [OOP Game Show App](https://github.com/apellicerep/OOP-Js-Game-Show-App)
 
+<img src="OOP-Game-550.png" alt="test"
+	title="test" width="550" height="550" />
+
+This is the 4th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+
+Browser-based, word guessing game: "Phrase Hunter."
+
+* Using the supplied HTML and CSS files as you can see in the first commit I added ALL the JavaScript code and I used OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.
+
+* I created two JavaScript classes with specific properties and methods. I created a Game class for managing the game, and a Phrase class to help with creating an array of Phrase objects.
+
+* The code will cchoose a random phrase, split the phrase into letters, and put those letters onto the gameboard.
+
+* Each time the player guesses a letter, the program compares the letter the player has chosen with the random phrase. If the letter is in the phrase, the gameboard displays the chosen letters on the screen.
+
+* A player continues to select letters until they guess the phrase (and win), or make five incorrect guesses (and lose).
+
+* If the player completes the phrase before they run out of guesses, a winning screen appears. If the player guesses incorrectly five times, a losing screen appears.
+
+* A player can guess a letter only once. After they’ve guessed a letter, the program will disable that letter on the onscreen keyboard.
+
+
+## [List Pagination and Filtering](https://github.com/apellicerep/List-Pagination-and-Filtering)
+
+<img src="List-pagination-550.png" alt="test"
+	title="test" width="550" height="550" />
+
+This is the 3th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+
+I enhanced the usability of a web page that is displaying way too much information all at once.
+
+I used an important development principle known as "progressive enhancement". Which in this case basically just means I added JavaScript to enhance the web page, without making the web page dependent upon the JavaScript that you are adding.
+
+Given the html and css of a list of students using Vanilla Javascript:
+
+* I break it up into separate pages that display only 10 students at a time. And programmitcally add buttons to the bottom of the page that allow users to navigate through the list, 10 studnets at a time.
+
+* I added a live filtering to the web.
+
+* The code will work for any list conaining any number of items.
+
+## [Interactive Form](https://github.com/apellicerep/Interactive_Form)
+
+<img src="List-pagination-550.png" alt="test"
+	title="test" width="550" height="550" />
+
+This is the 2th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+
+In this project, I used JavaScript to enhance an interactive registration form.
+
+Using the supplied HTML and CSS files, I added ALL the JavaScript to make the form more user-friendly by:
+
+* adding customized and conditional behavior and interactivity
+* validating user input and providing helpful error messages when the user enters invalid information into the form fields.
+* Instead of plain "vanilla" JavaScript, I used the popular jQuery library to complete this project to get familiar with this library since it is so common and prevalent on the web.
+
+## [Random Quote Generator](https://github.com/apellicerep/Random_Quote_Generator)
+
+<img src="Random-Quote-Generator-550.png" alt="test"
+	title="test" width="550" height="550" />
+
+This is the 1th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+
+This project, displays random famous quotes each time a button is clicked, also every interval the backgroundColor and the quotes changes randomly.
 
 
 
