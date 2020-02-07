@@ -19,7 +19,8 @@ Main Technologies:
 
 * Front-End: React and Material-Ui
 * Back-End: Express, MySql and Sequelize.
-### [Know More]
+
+#### [Know More]
 
 ## [Course Management system](https://github.com/apellicerep/Full-Stack-App-with-React-and-REST-API)
 
@@ -41,7 +42,7 @@ I've used:
 * The Fetch API  to fetch data from your REST API.
 * Allow users to sign up and use basic authentication to support users signing in.
 
-### [Know More +](https://github.com/apellicerep/Full-Stack-App-with-React-and-REST-API)
+#### [Know More +](https://github.com/apellicerep/Full-Stack-App-with-React-and-REST-API)
 
 ## [REST API](https://github.com/apellicerep/REST_Api)
 
@@ -65,7 +66,7 @@ I've used my knowledge of REST API design, Node.js, and Express to create:
 
 In a future project, I'll complete a full stack JavaScript application by using React to create a client for this REST API.
 
-### [Know More +](https://github.com/apellicerep/REST_Api)
+#### [Know More +](https://github.com/apellicerep/REST_Api)
 
 ## [SQL Library Manager](https://github.com/apellicerep/SQL-LIBRARY-MANAGER)
 
@@ -80,7 +81,8 @@ Given HTML designs and an existing SQLite database. I have implemented a dynamic
 * Add, update, and delete books.
 * Pagination 
 * Search field.
-### [Know More +](https://github.com/apellicerep/SQL-LIBRARY-MANAGER)
+
+#### [Know More +](https://github.com/apellicerep/SQL-LIBRARY-MANAGER)
 
 ## [React Gallery App](https://github.com/apellicerep/React-Gallery-App)
 
@@ -99,7 +101,7 @@ I have done:
 * Add logic to handle the search input.
 
 This project was bootstrapped with Create React App.
-### [Know More +](https://github.com/apellicerep/React-Gallery-App)
+#### [Know More +](https://github.com/apellicerep/React-Gallery-App)
 
 ## [Express Portfolio](https://github.com/apellicerep/Express-Js-Portfolio)
 
@@ -122,7 +124,8 @@ I used Nodejs and Express to:
 * Set up the middleware to utilize static files like CSS
 * Handle errors
 * Set up a server to serve the project
-### [Know More +](https://github.com/apellicerep/Express-Js-Portfolio)
+
+#### [Know More +](https://github.com/apellicerep/Express-Js-Portfolio)
 
 
 ## [Employee Directory](https://github.com/apellicerep/Employee_Directory_JS)
@@ -137,7 +140,7 @@ For this project, I've coded all the Javascript logic for a fictional company ca
 I used the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory.
 
 I requested a JSON object from the API using asynchronous programming and parsed the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.
-### [Know More +](https://github.com/apellicerep/Employee_Directory_JS)
+#### [Know More +](https://github.com/apellicerep/Employee_Directory_JS)
 
 ## [OOP Game Show App](https://github.com/apellicerep/OOP-Js-Game-Show-App)
 
@@ -162,7 +165,7 @@ Browser-based, word guessing game: "Phrase Hunter."
 
 * A player can guess a letter only once. After they’ve guessed a letter, the program will disable that letter on the onscreen keyboard.
 
-### [Know More +](https://github.com/apellicerep/OOP-Js-Game-Show-App)
+#### [Know More +](https://github.com/apellicerep/OOP-Js-Game-Show-App)
 
 ## [List Pagination and Filtering](https://github.com/apellicerep/List-Pagination-and-Filtering)
 
@@ -182,7 +185,8 @@ Given the html and css of a list of students using Vanilla Javascript:
 * I added a live filtering to the web.
 
 * The code will work for any list conaining any number of items.
-### [Know More +](https://github.com/apellicerep/List-Pagination-and-Filtering)
+
+#### [Know More +](https://github.com/apellicerep/List-Pagination-and-Filtering)
 
 ## [Interactive Form](https://github.com/apellicerep/Interactive_Form)
 
@@ -198,7 +202,8 @@ Using the supplied HTML and CSS files, I added ALL the JavaScript to make the fo
 * adding customized and conditional behavior and interactivity
 * validating user input and providing helpful error messages when the user enters invalid information into the form fields.
 * Instead of plain "vanilla" JavaScript, I used the popular jQuery library to complete this project to get familiar with this library since it is so common and prevalent on the web.
-### [Know More +](https://github.com/apellicerep/Interactive_Form)
+
+#### [Know More +](https://github.com/apellicerep/Interactive_Form)
 
 ## [Random Quote Generator](https://github.com/apellicerep/Random_Quote_Generator)
 
@@ -208,7 +213,7 @@ Using the supplied HTML and CSS files, I added ALL the JavaScript to make the fo
 This is the 1th project done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 This project, displays random famous quotes each time a button is clicked, also every interval the backgroundColor and the quotes changes randomly.
-### [Know More +](https://github.com/apellicerep/Random_Quote_Generator)
+#### [Know More +](https://github.com/apellicerep/Random_Quote_Generator)
 
 
 
