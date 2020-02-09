@@ -13,7 +13,7 @@ Some of the features:
 
 * The software allows the administrator to register and manage the academic courses and the employers.
 * The employers can add holiday requests, check requests status, keep track of amount of holiday days spent and holiday days left.
-* The supervisor receive notifications when a request is made and can accept/decine the requests to plan so that the department always is manned.
+* The supervisor receive notifications when a request is made and can accept/decline the requests to plan so that the department always is manned.
 
 Main Technologies:
 
