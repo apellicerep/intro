@@ -29,7 +29,7 @@ Main Technologies:
 <img src="fullstackRestApipng2.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is my last project(10th) done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is my last project(10th) that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 In this Project I've used React to create a client for my existing school database REST API (the one that I created in previous project). The full stack application will provide a way for users to administer a school database containing information about courses: users can interact with the database by retrieving a list of courses, viewing detail for a specific course, as well as creating, updating and deleting courses in the database.
 
@@ -53,7 +53,7 @@ I've used:
 <img src="restApi.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 9th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 9th project that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 In this project, I've created a REST API using Express. The API will provide a way for users to administer a school database containing information about courses: users can interact with the database by retrieving a list of courses, as well as adding, updating and deleting courses in the database.
 
@@ -79,7 +79,7 @@ In a future project, I'll complete a full stack JavaScript application by using 
 <img src="expressSqlbooks.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 8th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 8th project that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 Given HTML designs and an existing SQLite database. I have implemented a dynamic website using JavaScript, Node.js, Express, Pug, and the SQL ORM Sequelize that includes:
 
@@ -97,7 +97,7 @@ Given HTML designs and an existing SQLite database. I have implemented a dynamic
 <img src="react-gallery-app.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 7th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 7th project that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 For this project, I used the very popular UI Library React Js to create an image gallery app and using the powerful Create React App tool, I setted up the initial project.
 
@@ -118,7 +118,7 @@ This project was bootstrapped with Create React App.
 <img src="portfolio.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 6th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 6th project that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 In this project, I created a portfolio site to showcase the projects that I've builted. I have used  Node.js and Express to
 
@@ -144,7 +144,7 @@ I used Nodejs and Express to:
 <img src="Employee-Directory-550.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 5th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 5th project that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 For this project, I've coded all the Javascript logic for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.
 
@@ -160,22 +160,16 @@ I requested a JSON object from the API using asynchronous programming and parsed
 <img src="OOP-Game-550.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 4th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 4th project that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 Browser-based, word guessing game: "Phrase Hunter."
 
 * Using the supplied HTML and CSS files as you can see in the first commit I added ALL the JavaScript code and I used OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.
-
 * I created two JavaScript classes with specific properties and methods. I created a Game class for managing the game, and a Phrase class to help with creating an array of Phrase objects.
-
 * The code will cchoose a random phrase, split the phrase into letters, and put those letters onto the gameboard.
-
 * Each time the player guesses a letter, the program compares the letter the player has chosen with the random phrase. If the letter is in the phrase, the gameboard displays the chosen letters on the screen.
-
 * A player continues to select letters until they guess the phrase (and win), or make five incorrect guesses (and lose).
-
 * If the player completes the phrase before they run out of guesses, a winning screen appears. If the player guesses incorrectly five times, a losing screen appears.
-
 * A player can guess a letter only once. After they’ve guessed a letter, the program will disable that letter on the onscreen keyboard.
 
 #### [Know More +](https://github.com/apellicerep/OOP-Js-Game-Show-App)
@@ -187,7 +181,7 @@ Browser-based, word guessing game: "Phrase Hunter."
 <img src="List-pagination-550.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 3th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 3th project that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 I enhanced the usability of a web page that is displaying way too much information all at once.
 
@@ -196,9 +190,7 @@ I used an important development principle known as "progressive enhancement". Wh
 Given the html and css of a list of students using Vanilla Javascript:
 
 * I break it up into separate pages that display only 10 students at a time. And programmitcally add buttons to the bottom of the page that allow users to navigate through the list, 10 studnets at a time.
-
 * I added a live filtering to the web.
-
 * The code will work for any list conaining any number of items.
 
 #### [Know More +](https://github.com/apellicerep/List-Pagination-and-Filtering)
@@ -210,7 +202,7 @@ Given the html and css of a list of students using Vanilla Javascript:
 <img src="Interactive-Form-550.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 2th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 2th project that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 In this project, I used JavaScript to enhance an interactive registration form.
 
@@ -229,7 +221,7 @@ Using the supplied HTML and CSS files, I added ALL the JavaScript to make the fo
 <img src="Random-Quote-Generator-550.png" alt="test"
 	title="test" width="550" height="550" />
 
-This is the 1th project done during my training as a developer in the Teechdegree Fullstack Javascript.
+This is the 1th project that I've done during my training as a developer in the Teechdegree Fullstack Javascript.
 
 This project, displays random famous quotes each time a button is clicked, also every interval the backgroundColor and the quotes changes randomly.
 #### [Know More +](https://github.com/apellicerep/Random_Quote_Generator)
