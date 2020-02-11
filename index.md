@@ -1,7 +1,7 @@
 ## Portfolio
 This is a swocase of Arturo's recent projects:
 
-## [Holiday Resporting system](https://github.com/apellicerep/tfg_/blob/master/README.md)
+## [Holiday Reporting system](https://github.com/apellicerep/tfg_/blob/master/README.md)
 
 <img src="vista.png" alt="test"
 	title="test" width="550" height="550" />
