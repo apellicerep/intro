@@ -20,7 +20,7 @@ Main Technologies:
 * Front-End: React and Material-Ui
 * Back-End: Express, MySql and Sequelize.
 
-#### [Know More](https://github.com/apellicerep/tfg_/blob/master/README.md)
+#### [Know More +](https://github.com/apellicerep/tfg_/blob/master/README.md)
 
 ---
 
