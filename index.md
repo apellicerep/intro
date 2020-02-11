@@ -1,7 +1,7 @@
 ## Portfolio
 This is a swocase of Arturo's recent projects:
 
-## Holiday Resporting system
+## [Holiday Resporting system](https://github.com/apellicerep/tfg_/blob/master/README.md)
 
 <img src="vista.png" alt="test"
 	title="test" width="550" height="550" />
@@ -20,7 +20,7 @@ Main Technologies:
 * Front-End: React and Material-Ui
 * Back-End: Express, MySql and Sequelize.
 
-#### [Know More]
+#### [Know More](https://github.com/apellicerep/tfg_/blob/master/README.md)
 
 ---
 
